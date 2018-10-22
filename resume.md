@@ -1,4 +1,4 @@
-# Derek Parsons
+# DEREK PARSONS
 
 *derekparsons718@gmail.com*
 
