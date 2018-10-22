@@ -6,11 +6,13 @@
 
 
 ### EMPLOYMENT HISTORY
+
 **Jr Developer / Jr Systems Admin** at Escrowtech International, Inc.
 - Develop and maintain web apps. (AngularJS and PHP)
 - Automate inter-server processes. (Python, AWS SDK)
 - Develop a REST API for a web app. (NodeJS)
 - Assist in IT procedures.
+
 **Grader at Utah Valley University** Computer Science Department.
 - Write grading rubrics and grading standards for various assignments.
 - Read and evaluate 0ver 40 coding projects every week.
@@ -24,6 +26,7 @@
 
 
 ### EDUCATION
+
 **Anticipated Bachelor’s of Computer Science with Computer Science Emphasis** from Utah Valley University. Expected December 2020.
 - Notable Classes: Object Oriented Programming; Intro to System Administration; Computer Organization and Architecture; Algorithms and Data Structures; Computer Networks.
 
@@ -31,13 +34,18 @@
 
 
 ### TECHNICAL SKILLS
-**Languages**: Python, PHP, Javascript, AngularJS, SQL, Google Apps Script, HTML, CSS. 
+
+**Languages**: Python, PHP, Javascript, AngularJS, SQL, Google Apps Script, HTML, CSS.
+
 **Systems and Tools**: Github, Windows, Linux Terminal, Relational and NoSQL Databases, Browser Dev Tools, Postman, Visual Studio, REST APIs. 
+
 **Miscellaneous**: 60 WPM typing speed. 
 
 
 ### OTHER QUALIFICATIONS
+
 **Spoken Languages**: English, Spanish. 
+
 **Certificates and Awards**:
 - AP Scholar with Distinction Award from the College Board.
 - President’s Award for Educational Achievement from the PEAP.
