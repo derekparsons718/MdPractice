@@ -1,7 +1,6 @@
 # Derek Parsons
 
-*derekparsons718@gmail.com*
-
+*derekparsons718@gmail.com* 
 *801-657-6312*
 
 
@@ -25,7 +24,7 @@ ______________________________
 - Almost entirely unsupervised.
 
 
-##### EDUCATION
+#### EDUCATION
 ______________________________
 **Anticipated Bachelor’s of Computer Science with Computer Science Emphasis** from Utah Valley University. Expected December 2020.
 - Notable Classes: Object Oriented Programming; Intro to System Administration; Computer Organization and Architecture; Algorithms and Data Structures; Computer Networks.
