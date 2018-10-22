@@ -1,9 +1,11 @@
 # Derek Parsons
+
 *derekparsons718@gmail.com*
+
 *801-657-6312*
 
 
-##### EMPLOYMENT HISTORY
+#### EMPLOYMENT HISTORY
 ______________________________
 **Jr Developer / Jr Systems Admin** at Escrowtech International, Inc.
 - Develop and maintain web apps. (AngularJS and PHP)
@@ -31,14 +33,14 @@ ______________________________
 **High School Diploma**, graduated with Honors from Provo High School. May 2013. 
 
 
-##### TECHNICAL SKILLS
+#### TECHNICAL SKILLS
 ______________________________
 **Languages**: Python, PHP, Javascript, AngularJS, SQL, Google Apps Script, HTML, CSS. 
 **Systems and Tools**: Github, Windows, Linux Terminal, Relational and NoSQL Databases, Browser Dev Tools, Postman, Visual Studio, REST APIs. 
 **Miscellaneous**: 60 WPM typing speed. 
 
 
-##### OTHER QUALIFICATIONS
+#### OTHER QUALIFICATIONS
 ______________________________
 **Spoken Languages**: English, Spanish. 
 **Certificates and Awards**:
